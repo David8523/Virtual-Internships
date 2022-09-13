@@ -11,6 +11,15 @@ I will be updating this repository as I complete the different virtual internshi
 2. [General Electric](#2-general-electric)
 
 ## 1. KPMG
-
+<br/><br/>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/KPMG.svg/320px-KPMG.svg.png" />
+</p>
+<br />
 
 ## 2. General Electric
+<br/><br/>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/General_Electric_logo.svg/240px-General_Electric_logo.svg.png" />
+</p>
+<br />
