@@ -70,6 +70,8 @@ The data you have been given has sheets related to Flight data (so data relating
 
 In this final form, we can then use this table to either create a prediction of RUL or visualize the data for easy user consumption. This will be done in task two.
 
+[Link](https://github.com/David8523/Virtual-Internships/blob/main/General%20Electric/Task%201/GE_Dataset_%20Task1.xlsx)
+
 ### Task 2: Data Visualization
 
 Use data to create a run chart and KPI (key performance indicators) tables based off of simulated Aviation data.
@@ -77,3 +79,5 @@ Use data to create a run chart and KPI (key performance indicators) tables based
 We have supplied a dataset that is ready to be visualized in the resources section below. Your task is to create a run chart using Tableau that will visualize the measurement of a given feature of each operation for a given part number. 
 
 Take screenshots of your workings in Tableau, return to this page and upload your findings
+
+[Link](https://github.com/David8523/Virtual-Internships/blob/main/General%20Electric/Task%202/GE%20task%202.PNG)
