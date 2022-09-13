@@ -51,6 +51,8 @@ Visualisations such as interactive dashboards often help us highlight key findin
 
 Develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard (see tools/references for assistance). 
 
+[Link](https://public.tableau.com/app/profile/david.de.la.iglesia/viz/KPMGVirtualInternship_16619659553160/Dashboard1)
+
 ## 2. General Electric
 <br/><br/>
 <p align="center">
