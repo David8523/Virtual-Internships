@@ -29,6 +29,8 @@ Review the data quality to ensure that it is ready for our analysis in phase two
 
 Draft an email to the client identifying the data quality issues and strategies to mitigate these issues. Refer to ‘Data Quality Framework Table’ and resources below for criteria and dimensions which you should consider.
 
+[Link](https://github.com/David8523/Virtual-Internships/blob/main/KPMG/Task%201/KPMG%20Virtual%20Internship%20Task%201%20Email.pdf)
+
 ### Task 2. Data Insights
 
 Targeting high value customers based on customer demographics and attributes.
@@ -38,6 +40,8 @@ Sprocket Central Pty Ltd has given us a new list of 1000 potential customers wit
 The marketing team at Sprocket Central Pty Ltd is sure that, if correctly analysed, the data would reveal useful customer insights which could help optimise resource allocation for targeted marketing. Hence, improve performance by focusing on high value customers.
 
 Prepare a detailed approach for completing the analysis including activities – i.e. understanding the data distributions, feature engineering, data transformations, modelling, results interpretation and reporting. This detailed plan needs to be presented to the client to get a sign-off. Please advise what steps you would take. 
+
+[Link](https://github.com/David8523/Virtual-Internships/blob/main/KPMG/Task%202/Module_2_Solution.pptx)
 
 ### Task 3. Data Insights and Presentation
 
